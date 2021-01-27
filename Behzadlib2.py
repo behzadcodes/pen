@@ -1,7 +1,4 @@
 ########################################
-####     Behzad Asadieh, Ph.D.      ####
-####  University of Pennsylvania    ####
-####    basadieh@sas.upenn.edu      ####
 ########################################
 import numpy as np
 from numpy import zeros, ones, empty, nan, shape
