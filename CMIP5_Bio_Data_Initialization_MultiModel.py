@@ -1,10 +1,4 @@
-#################################
-####   CMIP5 - CO2 & Phyto   ####
-########################################
-####     Behzad Asadieh, Ph.D.      ####
-####  University of Pennsylvania    ####
-####    basadieh@sas.upenn.edu      ####
-########################################
+
 
 ### IMPORTANT: The following path needs to be appended so that the neccessary codes can be read from that directory ###
 import sys
